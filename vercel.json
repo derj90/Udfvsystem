@@ -46,7 +46,7 @@
   "crons": [
     {
       "path": "/api/notion/sync",
-      "schedule": "0 */6 * * *"
+      "schedule": "0 2 * * *"
     }
   ]
 }
