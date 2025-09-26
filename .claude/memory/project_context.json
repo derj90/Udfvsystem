@@ -1,0 +1,27 @@
+{
+  "project_name": "UDFV Sistema de Gestión Integral",
+  "industry": "Educación Superior - Gestión de Proyectos Académicos",
+  "audience": "Coordinadores UDFV, Equipo técnico, Autoridades UMCE",
+  "geography": "Chile",
+  "locale": "es-CL",
+  "primary_goal": "Rediseñar sistema UDFV como aplicación web moderna con UX amigable y análisis inteligente de proyectos",
+  "constraints": {
+    "stack": "Next.js 14, React, Tailwind CSS, Vercel",
+    "database": "Vercel Postgres",
+    "ai": "Anthropic Claude API",
+    "sync": "Notion API",
+    "performance": "< 2 segundos carga inicial",
+    "responsive": "Móvil-first"
+  },
+  "auto_translate": false,
+  "cta_policies": {
+    "variants_per_design": 3,
+    "focus": "Acción clara y contextual"
+  },
+  "brand_attributes": [
+    "Eficiencia",
+    "Transparencia", 
+    "Innovación académica",
+    "Colaboración"
+  ]
+}
